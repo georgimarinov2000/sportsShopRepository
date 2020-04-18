@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\sportsStore\DataStrucutre\bin\Debug\DataStrucutre.dll.config
+C:\Users\admin\source\repos\sportsStore\DataStrucutre\bin\Debug\DataStrucutre.dll
+C:\Users\admin\source\repos\sportsStore\DataStrucutre\bin\Debug\DataStrucutre.pdb
+C:\Users\admin\source\repos\sportsStore\DataStrucutre\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\sportsStore\DataStrucutre\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\sportsStore\DataStrucutre\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\sportsStore\DataStrucutre\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\sportsStore\DataStrucutre\obj\Debug\DataStrucutre.csproj.CopyComplete
+C:\Users\admin\source\repos\sportsStore\DataStrucutre\obj\Debug\DataStrucutre.dll
+C:\Users\admin\source\repos\sportsStore\DataStrucutre\obj\Debug\DataStrucutre.pdb
+C:\Users\admin\source\repos\sportsStore\DataStrucutre\obj\Debug\DataStrucutre.Migrations.staff.resources
+C:\Users\admin\source\repos\sportsStore\DataStrucutre\obj\Debug\DataStrucutre.csproj.GenerateResource.cache
